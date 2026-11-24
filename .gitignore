@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+__pycache__/
+/reproduction/EL18_58_search/
+/paper/*
+!/paper/*.pdf

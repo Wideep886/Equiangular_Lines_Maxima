@@ -1,0 +1,3 @@
+The directed K4 construction reproduces all twelve earlier quintets in order, up to orientation.
+45 edges, 12 quintets, 66 pair intersections and 1596 off-diagonal pairs verified.
+Scaled coordinates YY^T=50G. Rational Schur inertia (positive,negative,zero)=(18,0,39).

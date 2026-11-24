@@ -1,0 +1,6 @@
+scale 6 glue 72 det(root) 5184 coset min 4, roots 144 component orbits [4, 1] marks per component [20, 16]
+scale 5 glue 125 det(root) 15625 coset min 4, roots 120 component orbits [6] marks per component [10]
+scale 4 glue 256 det(root) 65536 coset min 4, roots 96 component orbits [8] marks per component [4]
+Golay weights full [(0, 1), (6, 264), (9, 440), (12, 24)] short [(0, 1), (6, 132), (9, 110)] punctured 729
+scale 3 glue 729 det(root) 531441 coset min 4, roots 72 component orbits [12] marks per component [1]
+PASS all four rank-24 even unimodular models, full root systems and A2 mark orbits

@@ -1,0 +1,3 @@
+rectangle block signs 0 [-1, -1, 1, 1]
+rectangle block signs 1 [1, -1, -1, 1]
+PASS all five Paley rows, all 243 shortened words and Cartesian coordinates, z=0,1,2, unique centers and pencil signs

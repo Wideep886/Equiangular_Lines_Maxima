@@ -1,0 +1,5 @@
+scale 6: 166 records, 72534 signed points, 58656 directed edges, 165 bounds below 116.
+scale 5: 28 records, 11616 signed points, 9012 directed edges, 26 bounds below 116.
+scale 4: 17 records, 7290 signed points, 5398 directed edges, 9 bounds below 116.
+scale 3: 5 records, 1824 signed points, 1242 directed edges, 1 bounds below 116.
+All 216 chain covers verified from integer differences on the full coordinate shells.

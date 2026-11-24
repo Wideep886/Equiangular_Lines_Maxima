@@ -1,0 +1,16 @@
+PASS discriminant_boundary
+PASS pure_colour_orbits
+PASS midrank_bridge
+PASS high_domains
+PASS high_area
+PASS check_frontiers
+PASS labelled_supports
+PASS labelled_baseline
+PASS labelled_support_sets (5 files compared byte-for-byte)
+PASS labelled_orbits
+PASS labelled_orbit_maps (5 files compared byte-for-byte)
+PASS exceptional_shells
+PASS exceptional_orbits
+PASS triality
+PASS odd_sections
+PASS odd_deletion

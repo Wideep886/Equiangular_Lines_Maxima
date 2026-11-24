@@ -1,0 +1,12 @@
+edge, color, centered heights on the last five blocks
+01 3 +-0-+
+02 5 +--+0
+03 2 +0+--
+04 4 ++-0-
+12 4 +-+0-
+13 5 ++--0
+14 1 0++--
+23 1 0+-+-
+24 2 +0--+
+34 3 +-0+-
+candidate axes 216 groups 16 bound 64

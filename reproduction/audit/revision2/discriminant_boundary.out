@@ -1,0 +1,6 @@
+rank 1, tested 4, anisotropic 3, all even 1, rank-three cyclic split 0
+rank 2, tested 32, anisotropic 13, all even 1, rank-three cyclic split 0
+rank 3, tested 512, anisotropic 56, all even 0, rank-three cyclic split 56
+rank 4, tested 16384, anisotropic 0, all even 0, rank-three cyclic split 0
+odd prime 3, tested 729 ternary forms, anisotropic 0
+odd prime 5, tested 15625 ternary forms, anisotropic 0

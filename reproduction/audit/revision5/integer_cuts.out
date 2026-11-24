@@ -1,0 +1,7 @@
+Four hand cases: Golay design, paired d24, and the two direct sums verified.
+d12_d12 66 {capacity: 54, singleton: 8, transversal: 4} special cuts []
+d10_e7_e7 195 {capacity: 162, singleton: 23, trace: 2, transversal: 8} special cuts []
+d8_d8_d8 129 {capacity: 108, singleton: 10, trace: 1, transversal: 10} special cuts []
+d6_d6_d6_d6 138 {(18, 18, 18): 1, capacity: 117, singleton: 9, trace: 4, transversal: 7} special cuts [('(18, 18, 18)', 32)]
+d4_d4_d4_d4_d4_d4 34 {(8, 8, 8, 10, 10, 10): 1, capacity: 29, singleton: 3, transversal: 1} special cuts [('(8, 8, 8, 10, 10, 10)', 11520)]
+All five codes: 562 representatives of 13459600 labelled cuts.

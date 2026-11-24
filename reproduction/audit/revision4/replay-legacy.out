@@ -1,0 +1,10 @@
+PASS rank 10 hand tables
+PASS rank 16 domains from the incoming frontier
+PASS rank 16 shapes and residual positions
+PASS A3 row 5 shortened-code tournament
+PASS A3 row 5 tournament from the full shell
+PASS A3 rows 6 and 10 five integer minors
+PASS A4 row 26 product blocks
+PASS A2 row 3 colored edges
+PASS 15 signed shells and 4 root-preserving isometries
+PASS earlier rank 16 weighted clique bounds

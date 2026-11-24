@@ -1,0 +1,4 @@
+Ranges (binary rank, local min, local max, total axes, largest word) [(17, 21), (1, 24), (6, 64), (36, 288), (106101, 2094835)]
+24/24 complete generated inputs match under UBSan
+15/15 independent deletion-count audits match under UBSan
+Odd primes 101/103 both match under UBSan

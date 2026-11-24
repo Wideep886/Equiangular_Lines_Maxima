@@ -1,0 +1,4 @@
+mark 1 axes 280 span dimension 20 blocks 10 total width 62 omission sets 210 block group order 24 orbits 17 immediate direction cuts 12 largest conditional bound 57
+terminal states (kind, dimension, count): [('direction', 17, 19), ('direction', 18, 1)]
+mark 15 axes 214 span dimension 21 blocks 20 total width 62 omission sets 4845 block group order 16 orbits 381 immediate direction cuts 0 largest conditional bound 51
+terminal states (kind, dimension, count): [('direction', 17, 419), ('direction', 18, 385), ('rank', 15, 4), ('rank', 16, 230)]

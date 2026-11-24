@@ -1,0 +1,45 @@
+scale6-record32.in
+scale 6, axes 222, cell sizes [1, 27]
+  dimension 21, saturation steps 39
+scale5-record26.in
+scale 5, axes 222, cell sizes [1, 4, 6, 8, 16, 18, 24, 27]
+  dimension 21, saturation steps 20
+scale5-record27.in
+scale 5, axes 216, cell sizes [4, 16, 18]
+  dimension 21, saturation steps 20
+scale4-record00.in
+scale 4, axes 288, cell sizes [24, 36]
+  dimension 20, saturation steps 53
+scale4-record01.in
+scale 4, axes 288, cell sizes [24, 32]
+  dimension 20, saturation steps 53
+scale4-record05.in
+scale 4, axes 189, cell sizes [9]
+  dimension 21, saturation steps 54
+scale4-record06.in
+scale 4, axes 189, cell sizes [6, 8, 9, 12]
+  dimension 21, saturation steps 54
+scale4-record10.in
+scale 4, axes 222, cell sizes [1, 4, 6, 8, 16, 18, 24, 27]
+  dimension 21, saturation steps 54
+scale4-record14.in
+scale 4, axes 216, cell sizes [3, 4, 12, 16, 18]
+  dimension 21, saturation steps 54
+scale4-record15.in
+scale 4, axes 216, cell sizes [4, 12, 16]
+  dimension 21, saturation steps 54
+scale4-record16.in
+scale 4, axes 210, cell sizes [2, 9, 12]
+  dimension 21, saturation steps 54
+scale3-record01.in
+scale 3, axes 222, cell sizes [1, 27]
+  dimension 21, saturation steps 20
+scale3-record02.in
+scale 3, axes 210, cell sizes [2, 9, 12]
+  dimension 21, saturation steps 20
+scale3-record03.in
+scale 3, axes 216, cell sizes [4, 16, 18]
+  dimension 21, saturation steps 20
+scale3-record04.in
+scale 3, axes 204, cell sizes [6, 8]
+  dimension 21, saturation steps 20

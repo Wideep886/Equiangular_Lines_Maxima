@@ -1,0 +1,7 @@
+a2-row0.in n=60 d=21 zero cap=20 nonzero normals=0 first=0 pairs=0 twoPass=0 triples=0
+a2-row1.in n=222 d=21 zero cap=62 nonzero normals=7 first=3 pairs=3 twoPass=0 triples=0
+a2-row2.in n=210 d=21 zero cap=72 nonzero normals=11555 first=13 pairs=36 twoPass=0 triples=0
+a2-row3.in n=216 d=21 zero cap=64 nonzero normals=342 first=2 pairs=0 twoPass=0 triples=0
+a2-row4.in n=204 d=21 zero cap=72 nonzero normals=182022 first=3282 pairs=472614 twoPass=0 triples=0
+a4-row26.in n=222 d=21 zero cap=59 nonzero normals=6 first=0 pairs=0 twoPass=0 triples=0
+a4-row27.in n=216 d=21 zero cap=64 nonzero normals=342 first=2 pairs=0 twoPass=0 triples=0

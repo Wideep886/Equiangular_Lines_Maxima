@@ -1,0 +1,12 @@
+four-cycle Aa Ad aD Dd
+four-cycle Bb BC bc Cc
+tetrahedron S ['Ab', 'Ba', 'CD', 'cd']
+tetrahedron T ['AC', 'Bd', 'Db', 'ac']
+first six centers divided by two, columns 0 4 5 8 12 24
+-1 -1 1 0 1 -1
+-1 -1 1 0 -1 1
+-1 1 -1 -1 0 0
+-1 1 -1 1 0 0
+0 -2 0 -1 1 1
+0 -2 0 1 -1 1
+determinant 32

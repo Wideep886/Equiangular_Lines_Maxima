@@ -1,0 +1,3 @@
+PASS full coordinate shells and all 74308 links in 216 records
+PASS all 216 list counts agree entry by entry with the independent middle-layer table
+PASS regenerated all 216 partitions from the marked models

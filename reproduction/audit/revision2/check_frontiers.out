@@ -1,0 +1,25 @@
+rank 16 recovered types and (anchor, area) IDs
+plane16 404 4111
+plane16_next 81 428
+plane16_root 50 155
+refine16 44 129
+frontier9 43 128
+caps16 20 57
+capcycle16 18 50
+splits16 13 30
+kernel16 10 22
+finish16 9 21
+21 terminal word and orbit IDs verified; count-preserving substitution rejected
+mixed rank 6 post-code types 0 live anchor IDs 0
+mixed rank 7 post-code types 0 live anchor IDs 0
+mixed rank 8 post-code types 0 live anchor IDs 0
+mixed rank 9 post-code types 0 live anchor IDs 0
+mixed rank 10 post-code types 0 live anchor IDs 0
+mixed rank 11 post-code types 1 live anchor IDs 6
+mixed rank 12 post-code types 1 live anchor IDs 2
+mixed rank 13 post-code types 1 live anchor IDs 7
+mixed rank 14 post-code types 2 live anchor IDs 8
+mixed rank 15 post-code types 1 live anchor IDs 2
+final code cases, tested support orbits, surviving support orbits, tested assignments: 5 141 15 421
+checked labeled mixed-rank elimination events {'pack': 13184, 'energy': 314, 'join': 0, 'block': 284, 'pencil': 6, 'knap': 8, 'purebranch': 0, 'twonormal': 6, 'binary': 5, 'ternary': 0}
+rank 17 joins 1137 types 1059 type/height IDs 13 survivors

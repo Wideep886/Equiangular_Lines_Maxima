@@ -1,0 +1,15 @@
+PASS full-rank integral codes and five residual orbit lists
+PASS A3 index 0 cells
+PASS A3 index 1 cells
+PASS A3 index 14 centers and minor
+PASS A3 index 15 centers and minor
+PASS independent rational rank test at A3 indices 1 and 15
+PASS five Paley rows in affine quadratic coordinates
+PASS second affine-code check on all 243 words and pencil signs
+PASS A2 index 4 affine cells, steps and centers from the ternary code
+PASS all affine centers and steps in the original coordinates
+PASS A2 index 4 affine partition and rational relation tests
+PASS independent rational quotient test of the affine table
+PASS binary plane orbits and section capacities
+PASS a geometric full-cell anchor for the last section
+PASS first normal orbits from the coordinate actions

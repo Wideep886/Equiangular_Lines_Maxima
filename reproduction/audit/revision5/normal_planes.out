@@ -1,0 +1,9 @@
+plane (4, 8, 12) eligible axes 147 clique bound 51
+plane (5802, 2091690, 2096128) eligible axes 105 clique bound 55
+plane (27306, 2070186, 2096128) eligible axes 105 clique bound 55
+index 2 group 24 axes 210 cell bound 72
+eligible nonzero normals 11555 first normals 13 first representatives 3
+distinct plane orbits 3 max cell bound 55 capacities {51: 1, 55: 2}
+index 4 group 144 axes 204 cell bound 72
+eligible nonzero normals 182022 first normals 3282 first representatives 47
+distinct plane orbits 1514 max cell bound 54 capacities {42: 14, 43: 26, 44: 98, 45: 164, 46: 246, 47: 367, 48: 312, 49: 132, 50: 92, 51: 32, 52: 30, 54: 1}

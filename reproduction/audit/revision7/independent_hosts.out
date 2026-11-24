@@ -1,0 +1,15 @@
+scale 6 index 32: axes 222, integral rank 21, cells 14; all edges and binary kernels agree
+scale 5 index 26: axes 222, integral rank 21, cells 17; all edges and binary kernels agree
+scale 5 index 27: axes 216, integral rank 21, cells 16; all edges and binary kernels agree
+scale 4 index 0: axes 288, integral rank 20, cells 9; all edges and binary kernels agree
+scale 4 index 1: axes 288, integral rank 20, cells 10; all edges and binary kernels agree
+scale 4 index 5: axes 189, integral rank 21, cells 21; all edges and binary kernels agree
+scale 4 index 6: axes 189, integral rank 21, cells 19; all edges and binary kernels agree
+scale 4 index 10: axes 222, integral rank 21, cells 17; all edges and binary kernels agree
+scale 4 index 14: axes 216, integral rank 21, cells 22; all edges and binary kernels agree
+scale 4 index 15: axes 216, integral rank 21, cells 20; all edges and binary kernels agree
+scale 4 index 16: axes 210, integral rank 21, cells 24; all edges and binary kernels agree
+scale 3 index 1: axes 222, integral rank 21, cells 14; all edges and binary kernels agree
+scale 3 index 2: axes 210, integral rank 21, cells 24; all edges and binary kernels agree
+scale 3 index 3: axes 216, integral rank 21, cells 16; all edges and binary kernels agree
+scale 3 index 4: axes 204, integral rank 21, cells 30; all edges and binary kernels agree

@@ -1,0 +1,7 @@
+6 singleton blocks, 6 triangle-pair blocks, 12 mixed blocks
+triangle 1 ['AC', 'Bc', 'ab']
+triangle 2 ['AB', 'aC', 'bc']
+triangle 3 ['Ab', 'BC', 'ac']
+triangle 4 ['Ac', 'aB', 'bC']
+nonsingleton centers span 6; any singleton raises the rank to 7
+stabilizer actions: 24 images of 1ab: 12

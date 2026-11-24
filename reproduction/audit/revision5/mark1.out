@@ -1,0 +1,9 @@
+tetrahedron edge: binary factor, pair 0/1 and center coordinates
+34 (7, 1) (4, -4, 0)
+35 (2, 0) (4, 0, -4)
+36 (1, 1) (0, 4, -4)
+45 (1, 0) (0, 4, -4)
+46 (2, 1) (4, 0, -4)
+56 (7, 0) (4, -4, 0)
+vertex blocks: each uses the three opposite edges and its own octahedron
+complementary triangle center ranks: 2 2 2 2

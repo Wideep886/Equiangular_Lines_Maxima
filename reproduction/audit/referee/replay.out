@@ -1,0 +1,10 @@
+PASS A: root certificates, rank transfers and terminal frontiers
+PASS A: orthogonal rank 10 tables, 21 rank 16 domains, 562 integral-code orbits
+PASS B: direct chain bounds for 13 ordinary lattice types
+PASS B: list bounds for the remaining five ordinary lattice types
+PASS B: models, marked-factor coverage, 216 marked shells, 15 terminal records
+PASS all 15 coordinate inputs regenerated from the 216 list covers
+PASS all 15 direct normal tests; 472704 ordered-first plane tests; 0 pass
+PASS all cells, edges and binary kernels rebuilt using an integer row basis
+PASS all 15 Walsh counts on the same inputs
+PASS C: every required plane fails on all 15 original marked records

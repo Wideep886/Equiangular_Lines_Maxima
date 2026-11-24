@@ -1,0 +1,12 @@
+ambient binary rank parameter 18 cell capacity 58 first-stage result 1
+ambient binary rank parameter 18 cell capacity 57 first-stage result 0
+ambient binary rank parameter 19 cell capacity 58 first-stage result 1
+ambient binary rank parameter 19 cell capacity 57 first-stage result 0
+ambient binary rank parameter 20 cell capacity 58 relaxed kernel witness 262144 524288 capacity 58
+ambient binary rank parameter 20 cell capacity 57 first-stage result 0
+ambient binary rank parameter 21 cell capacity 58 relaxed kernel witness 262144 524288 1048576 capacity 58
+ambient binary rank parameter 21 cell capacity 57 first-stage result 0
+Multistage negative control, dimension 20 minimum core weight 11 core missing edge 0 global capacity 57: no eligible kernel; anchors 1 pair tests 0 pair passes 0 triple tests 0
+Multistage negative control, dimension 20 minimum core weight 11 core missing edge 1 global capacity 57: no eligible kernel; anchors 3 pair tests 1 pair passes 0 triple tests 0
+Multistage negative control, dimension 21 minimum core weight 11 core missing edge 0 global capacity 57: no eligible kernel; anchors 3 pair tests 1 pair passes 1 triple tests 0
+Multistage negative control, dimension 21 minimum core weight 11 core missing edge 1 global capacity 57: no eligible kernel; anchors 4 pair tests 6 pair passes 6 triple tests 3

@@ -1,0 +1,5 @@
+PASS direct: 1364 polarizations + 2646 marks
+PASS orbit: 1364 polarizations + 2646 marks
+PASS reflection-graph distances on all 4010 records
+PASS poset_extra: 216 marked records, 15 require terminal tests
+PASS poset_extra_orbits: 216 marked records, 15 require terminal tests

@@ -1,0 +1,36 @@
+PASS manifest 585
+PASS dual-audit replay.py
+PASS gate hand.py
+PASS dual-audit/manual manual.py
+PASS dual-audit/pure pure_bounds.py
+PASS dual-audit/pure missing11.py
+PASS corrected pure A1 color atlas
+PASS pure12 replay.py
+PASS pure12-independent seven-row certificates
+PASS thirteen verify.py
+PASS four-chains verify.py
+PASS marked-chains verify.py
+PASS golay57 verify_lower.py
+PASS golay57 isometry.py
+PASS direct_hosts replay.py
+PASS eleven/a24 replay.py
+PASS d6 replay.py
+PASS d6 verify_orbits.py
+PASS a8 a8.py
+PASS a8 audit.py
+PASS construct/a6 a6_check.py
+PASS construct/d4 d4_check.py
+PASS a7 a7d5.py
+PASS a7 exactcells.py
+PASS a7 verify29.py
+PASS a5 replay.py
+PASS mark-audit check_marks.py
+PASS a4 marking.py
+PASS a4 replay.py
+PASS a4 refine.py
+PASS a4 rootfree.py
+PASS a4 final26.py
+PASS a2 orbits.py
+PASS eleven/a3 replay_verified.py
+PASS normal_sieve data.py
+PASS 24 marked inputs, second normal count PASS

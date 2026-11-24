@@ -1,0 +1,8 @@
+maximum common scales by ADE rank 6..18 15 15 21 30 35 42 105 105 105 210 210 210 315
+two-normal input types, maximum common scale 9 6
+upper bound for the squared two-normal determinant 700131600000000
+rank 16 anchors 21 den, sc, D, absolute Gram bound, coordinate, weight 12 360 1584 42024 30 234
+1599 types verified; 11 integer coordinate cases and three combinatorial cases
+verify_full_rank.py trace cuts 2457 largest g, g squared, rhs 1263172488 1595604734440110144 114292158042673728 squares exceeding signed 64-bit 0
+1059 certificates verified; 13 pairs remain
+verify_pairs17.py trace cuts 5945 largest g, g squared, rhs 11938376640 142524836798497689600 10801848944827699200 squares exceeding signed 64-bit 16

@@ -1,0 +1,4 @@
+PASS all 15 coordinate inputs regenerated from the 216 list covers
+PASS all 15 direct normal tests; 472704 ordered-first plane tests; 0 pass
+PASS all cells, edges and binary kernels rebuilt using an integer row basis
+PASS all 15 Walsh counts on the same inputs

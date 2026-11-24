@@ -1,0 +1,15 @@
+scale3-record01.in n=222 d=21 zero cap=62 nonzero normals=7 first=3 pairs=3 twoPass=0 triples=0
+scale3-record02.in n=210 d=21 zero cap=72 nonzero normals=11555 first=13 pairs=36 twoPass=0 triples=0
+scale3-record03.in n=216 d=21 zero cap=64 nonzero normals=342 first=2 pairs=0 twoPass=0 triples=0
+scale3-record04.in n=204 d=21 zero cap=72 nonzero normals=182022 first=3282 pairs=472614 twoPass=0 triples=0
+scale4-record00.in n=288 d=20 zero cap=63 nonzero normals=276 first=276 pairs=0 twoPass=0 triples=0
+scale4-record01.in n=288 d=20 zero cap=62 nonzero normals=200 first=200 pairs=0 twoPass=0 triples=0
+scale4-record05.in n=189 d=21 zero cap=63 nonzero normals=3 first=0 pairs=0 twoPass=0 triples=0
+scale4-record06.in n=189 d=21 zero cap=59 nonzero normals=11 first=6 pairs=12 twoPass=0 triples=0
+scale4-record10.in n=222 d=21 zero cap=59 nonzero normals=6 first=0 pairs=0 twoPass=0 triples=0
+scale4-record14.in n=216 d=21 zero cap=61 nonzero normals=456 first=0 pairs=0 twoPass=0 triples=0
+scale4-record15.in n=216 d=21 zero cap=62 nonzero normals=226 first=0 pairs=0 twoPass=0 triples=0
+scale4-record16.in n=210 d=21 zero cap=72 nonzero normals=11555 first=13 pairs=36 twoPass=0 triples=0
+scale5-record26.in n=222 d=21 zero cap=59 nonzero normals=6 first=0 pairs=0 twoPass=0 triples=0
+scale5-record27.in n=216 d=21 zero cap=64 nonzero normals=342 first=2 pairs=0 twoPass=0 triples=0
+scale6-record32.in n=222 d=21 zero cap=62 nonzero normals=7 first=3 pairs=3 twoPass=0 triples=0
