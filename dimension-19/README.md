@@ -1,6 +1,6 @@
 # Dimension 19
 
-The verifier regenerates Asche's 72-line construction and checks its pairings and rank, confirming $N(19)\ge72$. The manuscript develops a computer-assisted argument for excluding 73 equiangular lines. That exclusion would give $N(19)=72$, and the manuscript presents the upper-bound proof for independent review.
+The manuscript proves $N(19)=72$. The lower bound comes from Asche's 72-line construction, which the verifier regenerates and checks for the required pairings and rank. The upper-bound proof excludes 73 equiangular lines by combining exact finite checks with the geometric reductions and analytic cases in the manuscript.
 
 - [Manuscript dated 25 November 2026](paper/el19_max_20261125.pdf)
 - [Reproduction guide, certificate archive, and programs](reproduction/)

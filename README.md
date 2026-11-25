@@ -12,9 +12,9 @@ This repository collects manuscripts, exact certificates, and verification progr
 
 | Dimension | Manuscript and verification materials |
 | --- | --- |
-| [Dimension 18](dimension-18/) | Manuscript establishing $N(18)=57$, with exact certificates and replay instructions. |
-| [Dimension 19](dimension-19/) | The manuscript concludes $N(19)=72$ using a verified 72-line construction and a computer-assisted argument for excluding 73 lines, with exact certificates and replay instructions. |
-| [Dimension 20](dimension-20/) | Manuscript establishing $N(20)=90$, with exact verification programs and replay instructions. |
+| [Dimension 18](dimension-18/) | Computer-assisted proof of $N(18)=57$, with exact certificates and replay instructions. |
+| [Dimension 19](dimension-19/) | Computer-assisted proof of $N(19)=72$, with a verified 72-line construction, exact certificates, and replay instructions. |
+| [Dimension 20](dimension-20/) | Computer-assisted proof of $N(20)=90$, with exact verification programs and replay instructions. |
 
 Each supplement lists its dependencies, verification commands, and expected outputs.
 

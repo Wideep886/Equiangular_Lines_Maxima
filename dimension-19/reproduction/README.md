@@ -1,6 +1,6 @@
 # Reproduce the finite calculations in dimension nineteen
 
-This supplement accompanies the dimension-nineteen research draft. The [replay driver](audit/referee/replay.py) checks the certificate archive's internal digests, reruns the checks in a temporary directory, and compares their output with the [reference transcripts](audit/referee/expected/). The [certificate archive](EL19_Certificates.zip) contains the rational certificates and the 72-vector lower-bound witness.
+This supplement accompanies the computer-assisted proof of $N(19)=72$. The [replay driver](audit/referee/replay.py) checks the certificate archive's internal digests, reruns the checks in a temporary directory, and compares their output with the [reference transcripts](audit/referee/expected/). The [certificate archive](EL19_Certificates.zip) contains the rational certificates and the 72-vector lower-bound witness.
 
 ## Requirements and commands
 
@@ -28,6 +28,6 @@ Use `--only A`, `--only B`, or `--only C` to run one stage. The replay requires 
 
 The complementary transcript shows `FULL MIXED COVERAGE False` because it checks the 140 complementary types. The mixed transcript reports full coverage of the 6,565 mixed types. The separate coverage check verifies that these two groups and the four exceptional types form a disjoint, complete list.
 
-The upper-bound argument also uses the geometric reductions and analytic cases in the manuscript. The `A2^7` argument and the seven records marked `ANALYTIC` are handled by proofs in the text.
+The upper-bound proof also uses the geometric reductions and analytic cases in the manuscript. The `A2^7` argument and the seven records marked `ANALYTIC` are handled by proofs in the text.
 
 The `shasum` command above checks the outer [SHA-256 manifest](MANIFEST.sha256), which covers the archive, this guide, the programs, the requirements file, and the expected outputs.
