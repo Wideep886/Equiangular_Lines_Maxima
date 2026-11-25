@@ -20,6 +20,10 @@ Each supplement lists its dependencies, verification commands, and expected outp
 
 For links in earlier copies of the dimension 18 manuscript, see the [current paper and verification materials](dimension-18/).
 
+## Combined manuscript
+
+The [combined verification guide](combined-reproduction/) provides one entry point for the three computational supplements. The combined manuscript and its LaTeX source are maintained separately.
+
 ## Citation and permissions
 
 Use the [BibTeX entries](citation.bib) to cite the relevant manuscript and its computational supplement. Preserve attribution to the sources identified in the manuscripts and reproduction guides.
