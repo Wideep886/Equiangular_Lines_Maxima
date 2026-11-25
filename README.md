@@ -1,10 +1,10 @@
-# Maximum Numbers of Real Equiangular Lines in Dimensions 18, 19, and 20
+# Maximum Numbers of Real Equiangular Lines in Selected Dimensions
 
 Valjakas Djaljapayan, Zhen-Qi Liao, and Wei-Hsuan Yu
 
 Department of Mathematics, National Central University
 
-This repository collects manuscripts, exact certificates, and verification programs for real equiangular lines.
+This repository collects manuscripts, exact certificates, and verification programs for the maximum numbers of real equiangular lines in dimensions 18, 19, and 20.
 
 ## Dimensions
 
@@ -15,6 +15,8 @@ This repository collects manuscripts, exact certificates, and verification progr
 | [Dimension 20](dimension-20/) | Reserved for a future supplement. |
 
 Each supplement lists its dependencies, verification commands, and expected outputs.
+
+For links in earlier copies of the dimension 18 manuscript, see the [current paper and verification materials](dimension-18/).
 
 ## Citation and permissions
 
