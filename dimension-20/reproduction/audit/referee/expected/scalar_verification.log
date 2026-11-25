@@ -1,0 +1,22 @@
+SCALAR 0 patterns 2 ambiguous 1 envelope_pass 2 local_max 0 bound 31 envelope_or_refined 54
+SCALAR 1 patterns 6 ambiguous 2 envelope_pass 6 local_max 0 bound 43 envelope_or_refined 67
+SCALAR 2 patterns 10 ambiguous 0 envelope_pass 10 local_max 0 bound 36 envelope_or_refined 36
+SCALAR 3 patterns 5 ambiguous 3 envelope_pass 5 local_max 0 bound 43 envelope_or_refined 71
+SCALAR 4 patterns 9 ambiguous 4 envelope_pass 9 local_max 0 bound 47 envelope_or_refined 80
+SCALAR 5 patterns 13 ambiguous 6 envelope_pass 13 local_max 0 bound 51 envelope_or_refined 88
+SCALAR 6 patterns 19 ambiguous 5 envelope_pass 17 local_max 2 bound 51 envelope_or_refined 83
+SCALAR 7 patterns 16 ambiguous 8 envelope_pass 13 local_max 3 bound 53 envelope_or_refined 84
+SCALAR 8 patterns 29 ambiguous 9 envelope_pass 23 local_max 6 bound 56 envelope_or_refined 87
+SCALAR 9 patterns 24 ambiguous 14 envelope_pass 12 local_max 12 bound 56 envelope_or_refined 83
+SCALAR 10 patterns 39 ambiguous 11 envelope_pass 31 local_max 8 bound 58 envelope_or_refined 89
+SCALAR 11 patterns 52 ambiguous 0 envelope_pass 52 local_max 0 bound 57 envelope_or_refined 57
+SCALAR 12 patterns 57 ambiguous 23 envelope_pass 34 local_max 23 bound 63 envelope_or_refined 63
+SCALAR 13 patterns 74 ambiguous 16 envelope_pass 58 local_max 16 bound 63 envelope_or_refined 63
+SCALAR 14 patterns 72 ambiguous 33 envelope_pass 39 local_max 33 bound 67 envelope_or_refined 67
+SCALAR 15 patterns 120 ambiguous 32 envelope_pass 88 local_max 32 bound 70 envelope_or_refined 70
+SCALAR 16 patterns 164 ambiguous 60 envelope_pass 104 local_max 60 bound 72 envelope_or_refined 72
+SCALAR 17 patterns 344 ambiguous 30 envelope_pass 314 local_max 30 bound 84 envelope_or_refined 84
+SCALAR 18 patterns 290 ambiguous 76 envelope_pass 214 local_max 76 bound 82 envelope_or_refined 82
+SCALAR 19 patterns 540 ambiguous 126 envelope_pass 420 local_max 120 bound 87 envelope_or_refined 87
+SCALAR VERIFIED 20 types; 1885 scalar patterns; 1464 envelope passes; 421 single-local refinements; maximum 87
+EXIT_STATUS 0

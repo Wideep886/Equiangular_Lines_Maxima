@@ -1,0 +1,55 @@
+SMALL 3 scalar_orbit 0 signed_pair_cells 11 marking_count 11 result (33, 33, [], None)
+SMALL 3 scalar_orbit 0 signed_pair_cells 11 marking_count 11 result (33, 33, [], None)
+SMALL 3 scalar_orbit 1 signed_pair_cells 18 marking_count 110 result (114, 90, [('linear', 9, 4), ('linear', 10, 2)], (9, 3))
+SMALL 3 scalar_orbit 2 signed_pair_cells 18 marking_count 55 result (114, 90, [('linear', 6, 4), ('linear', 10, 2)], (9, 3))
+SMALL 3 scalar_orbit 3 signed_pair_cells 18 marking_count 55 result (114, 90, [('linear', 0, 4), ('linear', 10, 2)], (9, 3))
+SMALL 3 scalar_orbit 4 signed_pair_cells 11 marking_count 1 result (33, 33, [], None)
+SMALL 3 scalar_orbit 4 signed_pair_cells 11 marking_count 1 result (33, 33, [], None)
+SMALL 3 scalar_orbit 5 signed_pair_cells 31 marking_count 330 result (96, 90, [('linear', 11, 6)], None)
+SMALL 3 scalar_orbit 6 signed_pair_cells 21 marking_count 660 result (105, 65, [('linear', 10, 10), ('factor', 0, 30, 10)], None)
+SMALL 3 scalar_orbit 7 signed_pair_cells 31 marking_count 220 result (96, 90, [('linear', 2, 6)], None)
+SMALL 3 scalar_orbit 8 signed_pair_cells 31 marking_count 110 result (96, 90, [('linear', 0, 6)], None)
+SMALL 3 scalar_orbit 9 signed_pair_cells 21 marking_count 132 result (105, 65, [('linear', 11, 10), ('factor', 0, 30, 10)], None)
+SMALL 3 scalar_orbit 10 signed_pair_cells 31 marking_count 110 result (96, 90, [('linear', 8, 6)], None)
+SMALL 3 scalar_orbit 11 signed_pair_cells 31 marking_count 22 result (96, 90, [('linear', 0, 6)], None)
+SMALL 3 scalar_orbit 12 signed_pair_cells 39 marking_count 110 result (102, 84, [('factor', 0, 18, 9)], None)
+SMALL 3 scalar_orbit 13 signed_pair_cells 21 marking_count 110 result (105, 65, [('linear', 11, 10), ('factor', 1, 30, 10)], None)
+SMALL 3 scalar_orbit 14 signed_pair_cells 31 marking_count 132 result (96, 90, [('linear', 6, 6)], None)
+SMALL 3 scalar_orbit 15 signed_pair_cells 21 marking_count 22 result (105, 65, [('linear', 0, 10), ('factor', 1, 30, 10)], None)
+SMALL 3 scalar_orbit 16 signed_pair_cells 21 marking_count 220 result (105, 65, [('linear', 11, 10), ('factor', 1, 30, 10)], None)
+SMALL 3 scalar_orbit 17 signed_pair_cells 21 marking_count 330 result (105, 65, [('linear', 10, 10), ('factor', 1, 30, 10)], None)
+SMALL 3 scalar_orbit 18 signed_pair_cells 31 marking_count 660 result (96, 90, [('linear', 8, 6)], None)
+SMALL 3 scalar_orbit 19 signed_pair_cells 21 marking_count 110 result (105, 65, [('linear', 0, 10), ('factor', 1, 30, 10)], None)
+SMALL 3 scalar_orbit 20 signed_pair_cells 39 marking_count 110 result (102, 84, [('factor', 1, 18, 9)], None)
+SMALL 3 scalar_orbit 21 signed_pair_cells 39 marking_count 220 result (102, 84, [('factor', 1, 18, 9)], None)
+SHAPE 3 (6, 6, 6, 6, 6, 6, 6, 6, 6) bound 84
+SHAPE 3 (6, 6, 6, 6, 6, 6, 18) bound 90
+SHAPE 3 (6, 6, 6, 6, 6, 24) bound 65
+SHAPE 3 (18, 18, 18) bound 90
+SHAPE 3 (54,) bound 33
+SMALL VERIFIED 3 scalar patterns 3840 scalar orbits 22 local alternatives 24 bound 90
+SMALL 4 scalar_orbit 0 signed_pair_cells 7 marking_count 8 result (28, 28, [], None)
+SMALL 4 scalar_orbit 0 signed_pair_cells 7 marking_count 8 result (28, 28, [], None)
+SMALL 4 scalar_orbit 1 signed_pair_cells 8 marking_count 56 result (92, 88, [('factor', 7, 4, 2)], None)
+SMALL 4 scalar_orbit 2 signed_pair_cells 17 marking_count 56 result (85, 85, [], None)
+SMALL 4 scalar_orbit 3 signed_pair_cells 18 marking_count 448 result (86, 86, [], None)
+SMALL 4 scalar_orbit 4 signed_pair_cells 13 marking_count 112 result (84, 84, [], None)
+SMALL 4 scalar_orbit 4 signed_pair_cells 13 marking_count 112 result (84, 84, [], None)
+SMALL 4 scalar_orbit 5 signed_pair_cells 23 marking_count 336 result (82, 82, [], None)
+SMALL 4 scalar_orbit 6 signed_pair_cells 13 marking_count 56 result (88, 88, [], None)
+SMALL 4 scalar_orbit 6 signed_pair_cells 13 marking_count 56 result (88, 88, [], None)
+SMALL 4 scalar_orbit 7 signed_pair_cells 21 marking_count 56 result (78, 78, [], None)
+SMALL 4 scalar_orbit 8 signed_pair_cells 25 marking_count 112 result (80, 80, [], None)
+SMALL 4 scalar_orbit 9 signed_pair_cells 28 marking_count 16 result (84, 84, [], None)
+SHAPE 4 (12, 12, 12, 12, 12, 12, 12, 12) bound 84
+SHAPE 4 (12, 12, 12, 12, 16, 16, 16) bound 80
+SHAPE 4 (12, 12, 12, 12, 16, 32) bound 82
+SHAPE 4 (12, 12, 12, 12, 48) bound 84
+SHAPE 4 (12, 12, 12, 16, 44) bound 86
+SHAPE 4 (16, 16, 16, 16, 32) bound 78
+SHAPE 4 (16, 16, 16, 48) bound 88
+SHAPE 4 (32, 32, 32) bound 85
+SHAPE 4 (32, 64) bound 88
+SHAPE 4 (96,) bound 28
+SMALL VERIFIED 4 scalar patterns 1256 scalar orbits 10 local alternatives 13 bound 88
+EXIT_STATUS 0
