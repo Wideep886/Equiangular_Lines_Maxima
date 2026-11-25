@@ -23,10 +23,12 @@ Pass `--dimension 18`, `--dimension 19` or `--dimension 20`. Dimensions 19 and 2
 | Dimension | Combined manuscript | Checks | Details |
 | --- | --- | --- | --- |
 | 18 | Section 2.8 | The exact 57-line witness, all three exclusion stages and the second terminal reconstruction | [Reproduction guide](../dimension-18/reproduction/README.md) |
-| 19 | Section 3.7 | All three stages, including the regenerated 72-vector witness and the root and lattice certificates | [Reproduction guide](../dimension-19/reproduction/README.md) |
+| 19 | Section 3.7 | Regeneration of the 72-line construction and finite checks for the argument excluding 73 lines | [Reproduction guide](../dimension-19/reproduction/README.md) |
 | 20 | Section 4.7 | Four finite checks and comparison with the five archived transcripts | [Reproduction guide](../dimension-20/reproduction/README.md) |
 
 ### Dimension nineteen certificate dependencies
+
+The replay verifies the 72-line construction and the finite calculations used for the upper bound. The upper-bound argument also uses the geometric reductions and analytic cases in Section 3.
 
 For Theorem 3.1, the saturation construction in Section 3.2 associates a root type and a nonnegative vector of label counts with any hypothetical 73-line system having a dual unit vector. Sections 3.3 and 3.4 explain why those counts would satisfy the rows reconstructed by [`root19_mixed_deficit.py`](../dimension-19/reproduction/audit/root19_mixed_deficit.py).
 
