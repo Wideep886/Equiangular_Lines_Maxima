@@ -49,3 +49,13 @@ python3 -B combined-reproduction/check_leech_sections.py
 ```
 
 The checker constructs the 276 axes, verifies their pairings, and uses the three normals in the manuscript to recover nested sections of dimensions 23, 22, 21, and 20 with 276, 176, 126, and 90 axes, respectively. It checks the ranks over the rationals. The generalized Hamming-weight argument in Sections 4.5 and 4.6 proves that these counts are maximal within the 276-axis configuration.
+
+### Sharp fixed-angle examples
+
+The [fixed-angle checker](check_fixed_angle_examples.py) recomputes the six interval examples in Section 5, checks the arithmetic for the sufficient thresholds, and verifies the two small Gram matrices for cosine $1/7$. It uses exact integer and rational arithmetic. Run from the repository root with Python 3.10 or newer and assertions enabled.
+
+```sh
+python3 -B combined-reproduction/check_fixed_angle_examples.py
+```
+
+The manuscript gives the general proofs for the fixed-angle families, including the conference-matrix family. The example checker runs separately from the dimension-specific replay.
