@@ -13,8 +13,8 @@ This repository collects manuscripts, exact certificates, and verification progr
 | Dimension | Manuscript and verification materials |
 | --- | --- |
 | [Dimension 18](dimension-18/) | Manuscript establishing $N(18)=57$, with exact certificates and replay instructions. |
-| [Dimension 19](dimension-19/) | Research manuscript for $N(19)=72$, with computational checks for the proof candidate. |
-| [Dimension 20](dimension-20/) | Research manuscript for $N(20)=90$, with exact verification programs and replay instructions. |
+| [Dimension 19](dimension-19/) | Manuscript presenting a computer-assisted proof candidate for $N(19)=72$, with exact certificates and replay instructions. |
+| [Dimension 20](dimension-20/) | Manuscript establishing $N(20)=90$, with exact verification programs and replay instructions. |
 
 Each supplement lists its dependencies, verification commands, and expected outputs.
 
