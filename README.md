@@ -22,7 +22,7 @@ For links in earlier copies of the dimension 18 manuscript, see the [current pap
 
 ## Combined manuscript
 
-The [combined verification guide](combined-reproduction/) provides one entry point for the three computational supplements. The combined manuscript and its LaTeX source are maintained separately.
+The [combined verification guide](combined-reproduction/) provides one entry point for the three computational supplements, a guide to the dimension-nineteen certificate inequalities, and a check of the nested Leech sections. The combined manuscript and its LaTeX source are maintained separately.
 
 ## Citation and permissions
 
