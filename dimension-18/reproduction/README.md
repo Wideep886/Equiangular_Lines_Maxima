@@ -8,12 +8,12 @@ Use Python 3.11 or newer with NumPy, Node.js, and a C++17 compiler available as 
 
 ```sh
 cd dimension-18/reproduction
-shasum -a 256 -c MANIFEST.sha256
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install numpy
 unset PYTHONOPTIMIZE
-python3 -m zipfile -e EL18_58_Search_Checkpoint.zip .
+shasum -a 256 -c MANIFEST.sha256 && \
+python3 -m zipfile -e EL18_58_Search_Checkpoint.zip . && \
 python3 -B audit/referee/replay.py EL18_58_search --second
 ```
 

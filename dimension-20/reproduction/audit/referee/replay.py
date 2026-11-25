@@ -2,6 +2,7 @@
 """Replay the finite checks accompanying the dimension-twenty manuscript."""
 
 import difflib
+import hashlib
 import os
 from pathlib import Path
 import shutil
@@ -12,6 +13,7 @@ import tempfile
 
 HERE = Path(__file__).resolve().parent
 AUDIT = HERE.parent
+SUPPLEMENT = AUDIT.parent
 EXPECTED = HERE / "expected"
 TRANSCRIPTS = (
     "scalar_verification.log",
@@ -19,6 +21,23 @@ TRANSCRIPTS = (
     "golay_verification.log",
     "leech_incidence_verification.log",
 )
+
+
+def verify_manifest(required):
+    checked = set()
+    for line in (SUPPLEMENT / "MANIFEST.sha256").read_text(encoding="ascii").splitlines():
+        digest, name = line.split("  ", 1)
+        relative = Path(name)
+        if relative.is_absolute() or ".." in relative.parts or relative in checked:
+            raise ValueError(f"Invalid or duplicate manifest path: {name}")
+        actual = hashlib.sha256((SUPPLEMENT / relative).read_bytes()).hexdigest()
+        if actual != digest:
+            raise ValueError(f"SHA-256 mismatch: {name}")
+        checked.add(relative)
+
+    missing = {path.relative_to(SUPPLEMENT) for path in required} - checked
+    if missing:
+        raise ValueError("Files missing from the manifest: " + ", ".join(map(str, sorted(missing))))
 
 
 def compare(name, actual):
@@ -47,10 +66,17 @@ def main():
     if not __debug__ or os.environ.get("PYTHONOPTIMIZE"):
         sys.exit("Enable Python assertions and clear PYTHONOPTIMIZE.")
 
+    inputs = (*sorted(AUDIT.glob("*.py")), AUDIT / "glue_models.json")
+    transcripts = (EXPECTED / name for name in (*TRANSCRIPTS, "master.log"))
+    try:
+        verify_manifest((*inputs, *transcripts, HERE / "replay.py"))
+    except (OSError, ValueError) as error:
+        sys.exit(f"Cannot verify the supplement: {error}")
+
     print("Running the four dimension-twenty finite checks", flush=True)
     with tempfile.TemporaryDirectory(prefix="el20-replay-") as scratch:
         work = Path(scratch)
-        for source in (*AUDIT.glob("*.py"), AUDIT / "glue_models.json"):
+        for source in inputs:
             shutil.copy2(source, work)
 
         result = subprocess.run(

@@ -1,6 +1,6 @@
 # Reproduce the finite calculations in dimension twenty
 
-This supplement accompanies the dimension-twenty manuscript. The [replay driver](audit/referee/replay.py) runs the four supplied verifiers in a temporary directory and compares their outputs with the five [reference transcripts](audit/referee/expected/). The [exact glue-model data](audit/glue_models.json) are included with the code.
+This supplement accompanies the dimension-twenty manuscript. The [replay driver](audit/referee/replay.py) checks the SHA-256 digests, runs the four supplied verifiers in a temporary directory, and compares their outputs with the five [reference transcripts](audit/referee/expected/). The [exact glue-model data](audit/glue_models.json) are included with the code.
 
 ## Requirements and commands
 
@@ -8,12 +8,11 @@ Use Python 3.10 or newer with assertions enabled. The checks use the Python stan
 
 ```sh
 cd dimension-20/reproduction
-shasum -a 256 -c MANIFEST.sha256
 unset PYTHONOPTIMIZE
 python3 -B audit/referee/replay.py
 ```
 
-The replay reports `PASS dimension-twenty replay (five transcripts matched)` after it checks the four detailed transcripts and the master summary. The four stage completion messages can appear in any order. The replay leaves the supplied inputs and reference transcripts in place.
+The replay exits before starting the computations if an input or transcript is missing or its digest differs. It reports `PASS dimension-twenty replay (five transcripts matched)` after it checks the four detailed transcripts and the master summary. The four stage completion messages can appear in any order. The replay leaves the supplied inputs and reference transcripts in place.
 
 ## Evidence in the manuscript
 

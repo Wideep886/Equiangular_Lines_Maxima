@@ -8,11 +8,11 @@ Use Python 3.10 or newer with NumPy, NetworkX, and SymPy. Run the following comm
 
 ```sh
 cd dimension-19/reproduction
-shasum -a 256 -c MANIFEST.sha256
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 unset PYTHONOPTIMIZE
+shasum -a 256 -c MANIFEST.sha256 && \
 python3 -B audit/referee/replay.py
 ```
 
