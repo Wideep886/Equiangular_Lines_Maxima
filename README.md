@@ -4,6 +4,8 @@ Valjakas Djaljapayan, Zhen-Qi Liao, and Wei-Hsuan Yu
 
 Department of Mathematics, National Central University
 
+The authors collaborated with OpenAI’s GPT-6 on the research presented in these manuscripts.
+
 This repository collects manuscripts, exact certificates, and verification programs for the maximum numbers of real equiangular lines in dimensions 18, 19, and 20.
 
 ## Dimensions
