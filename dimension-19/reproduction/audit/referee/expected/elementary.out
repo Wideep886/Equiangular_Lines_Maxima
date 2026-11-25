@@ -1,0 +1,35 @@
+Binary Golay: weight distribution {0: 1, 8: 759, 12: 2576, 16: 759, 24: 1} ; all 42504 five-subsets checked
+Asche lower bound: 72 integer rows, squared norm 80, pairings +/-16, exact rank 19
+Fixed octads B1, B2 (one-based): (2, 3, 7, 8, 9, 11, 13, 24) (2, 3, 5, 6, 14, 15, 16, 20)
+A1: roots=2, minuscule classes=1, data and width bounds PASS
+A2: roots=6, minuscule classes=2, data and width bounds PASS
+A3: roots=12, minuscule classes=3, data and width bounds PASS
+A4: roots=20, minuscule classes=4, data and width bounds PASS
+A5: roots=30, minuscule classes=5, data and width bounds PASS
+A6: roots=42, minuscule classes=6, data and width bounds PASS
+A7: roots=56, minuscule classes=7, data and width bounds PASS
+A8: roots=72, minuscule classes=8, data and width bounds PASS
+A9: roots=90, minuscule classes=9, data and width bounds PASS
+A10: roots=110, minuscule classes=10, data and width bounds PASS
+A11: roots=132, minuscule classes=11, data and width bounds PASS
+A12: roots=156, minuscule classes=12, data and width bounds PASS
+A13: roots=182, minuscule classes=13, data and width bounds PASS
+A14: roots=210, minuscule classes=14, data and width bounds PASS
+A15: roots=240, minuscule classes=15, data and width bounds PASS
+A16: roots=272, minuscule classes=16, data and width bounds PASS
+A17: roots=306, minuscule classes=17, data and width bounds PASS
+A18: roots=342, minuscule classes=18, data and width bounds PASS
+A19: roots=380, minuscule classes=19, data and width bounds PASS
+D4: roots=24, minuscule classes=3, data and width bounds PASS
+D5: roots=40, minuscule classes=3, data and width bounds PASS
+D6: roots=60, minuscule classes=3, data and width bounds PASS
+D7: roots=84, minuscule classes=3, data and width bounds PASS
+D8: roots=112, minuscule classes=3, data and width bounds PASS
+D9: roots=144, minuscule classes=3, data and width bounds PASS
+D10: roots=180, minuscule classes=3, data and width bounds PASS
+E6: roots=72, minuscule classes=2, data and width bounds PASS
+E7: roots=126, minuscule classes=1, data and width bounds PASS
+Minuscule data: all 29 irreducible types checked, including E8
+Explicit 5 chains of [2]x[3]x[3]: [[(0, 0, 0), (0, 0, 1), (0, 0, 2), (0, 1, 2), (0, 2, 2), (1, 2, 2)], [(0, 1, 0), (0, 1, 1), (0, 2, 1), (1, 2, 1)], [(0, 2, 0), (1, 2, 0)], [(1, 0, 0), (1, 0, 1), (1, 0, 2), (1, 1, 2)], [(1, 1, 0), (1, 1, 1)]]
+Clique recursion unit test: all 1099 labeled simple graphs of orders 1..5 PASS
+ALL ADDITIONAL CHECKS PASSED

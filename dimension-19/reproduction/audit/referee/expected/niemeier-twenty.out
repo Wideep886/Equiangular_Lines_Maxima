@@ -1,0 +1,24 @@
+PASS: first pass, 20 types, 540 marked exceptions
+PASS: every marked exception excluded
+PASS: all norm 2,4,6 shell counts checked
+0 exceptions 2 final signed-point bound 40 deletions 0
+1 exceptions 3 final signed-point bound 90 deletions 0
+2 exceptions 0 final signed-point bound 59 deletions 0
+3 exceptions 4 final signed-point bound 56 deletions 0
+4 exceptions 2 final signed-point bound 88 deletions 0
+5 exceptions 2 final signed-point bound 78 deletions 0
+6 exceptions 4 final signed-point bound 90 deletions 0
+7 exceptions 0 final signed-point bound 82 deletions 0
+8 exceptions 0 final signed-point bound 116 deletions 0
+9 exceptions 0 final signed-point bound 83 deletions 0
+10 exceptions 0 final signed-point bound 108 deletions 0
+11 exceptions 0 final signed-point bound 104 deletions 0
+12 exceptions 0 final signed-point bound 113 deletions 0
+13 exceptions 0 final signed-point bound 130 deletions 0
+14 exceptions 0 final signed-point bound 100 deletions 0
+15 exceptions 0 final signed-point bound 136 deletions 0
+16 exceptions 0 final signed-point bound 132 deletions 0
+17 exceptions 510 final signed-point bound 144 deletions 0
+18 exceptions 1 final signed-point bound 144 deletions 0
+19 exceptions 12 final signed-point bound 142 deletions 0
+ALL 20 TYPES VERIFIED

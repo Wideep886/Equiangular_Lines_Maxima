@@ -1,6 +1,8 @@
 .DS_Store
 .venv/
 __pycache__/
-/reproduction/EL18_58_search/
+/dimension-18/reproduction/EL18_58_search/
+/dimension-*/paper/*
+!/dimension-*/paper/*.pdf
 /paper/*
 !/paper/*.pdf

@@ -1,0 +1,14 @@
+r=11 q=1: 454/5
+r=11 q=2: 280
+r=12 q=1: 2578/35
+r=12 q=2: 2014/21
+r=13 q=1: 2002/15
+r=13 q=2: 287/4
+r=12 q=3 distinct: empty
+r=13 q=3 distinct: 1648/9
+r=13 q=3 concurrent: 239/3
+matching sizes (3, 3, 3, 3, 3): 2 records, 128 signs, minimum rank mod 3 = 9
+matching sizes (3, 3, 3, 3, 2): 24 records, 768 signs, minimum rank mod 3 = 9
+matching sizes (3, 3, 3, 3, 1): 24 records, 384 signs, minimum rank mod 3 = 9
+matching sizes (3, 3, 3, 2, 2): 288 records, 13248 signs, minimum rank mod 3 = 9
+PASS

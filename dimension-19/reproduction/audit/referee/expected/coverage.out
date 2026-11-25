@@ -1,0 +1,12 @@
+rank  all_types  allowed  mixed  other  special
+11 128 124 118 5 1
+12 193 185 172 12 1
+13 276 263 254 8 1
+14 403 380 366 13 1
+15 570 533 519 14 0
+16 815 754 735 19 0
+17 1137 1042 1025 17 0
+18 1599 1449 1422 27 0
+19 2207 1979 1954 25 0
+PASS: 6709 = 6565 + 140 + 4; exact disjoint coverage.
+Metadata coverage only; run the other verifiers for the certificate arithmetic.

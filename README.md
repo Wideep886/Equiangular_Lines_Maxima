@@ -1,27 +1,23 @@
-# The Maximum Number of Real Equiangular Lines in Dimension Eighteen
+# Maximum Numbers of Real Equiangular Lines in Dimensions 18, 19, and 20
 
 Valjakas Djaljapayan, Zhen-Qi Liao, and Wei-Hsuan Yu
 
 Department of Mathematics, National Central University
 
-The paper proves that the maximum number of real equiangular lines in dimension eighteen is 57. It gives a 57-line construction and excludes 58 lines using lattice arguments and exact finite calculations.
+This repository collects manuscripts, exact certificates, and verification programs for real equiangular lines.
 
-[Read the revised manuscript dated 25 November 2026](paper/el18_max_20261125.pdf) · [BibTeX citation](citation.bib)
+## Dimensions
 
-## Repository contents
-
-| Path | Contents |
+| Dimension | Manuscript and verification materials |
 | --- | --- |
-| [`paper/`](paper/) | Dated manuscript PDF. |
-| [`reproduction/`](reproduction/) | Reproduction instructions for the finite calculations in the paper. |
-| [`reproduction/EL18_58_Search_Checkpoint.zip`](reproduction/EL18_58_Search_Checkpoint.zip) | Exact input data, integer witnesses, and checkpoint replay programs. |
-| [`reproduction/audit/`](reproduction/audit/) | Article replay, supplemental checkers, witnesses, and expected transcripts. |
-| [`reproduction/MANIFEST.sha256`](reproduction/MANIFEST.sha256) | SHA-256 checksums for the certificate archive and audit files. |
+| [Dimension 18](dimension-18/) | Manuscript establishing $N(18)=57$, with exact certificates and replay instructions. |
+| [Dimension 19](dimension-19/) | Research manuscript for $N(19)=72$, with computational checks for the proof candidate. |
+| [Dimension 20](dimension-20/) | Reserved for a future supplement. |
 
-See the [reproduction guide](reproduction/README.md) for dependencies, commands, and a map from paper sections to verification stages. The [verification transcript](reproduction/audit/referee/replay.out) records the expected output of the full run.
+Each supplement lists its dependencies, verification commands, and expected outputs.
 
 ## Citation and permissions
 
-Please use the [BibTeX entry](citation.bib) to cite the manuscript and its computational supplement. Preserve attribution to the sources identified in the manuscript and the reproduction guide.
+Use the [BibTeX entries](citation.bib) to cite the relevant manuscript and its computational supplement. Preserve attribution to the sources identified in the manuscripts and reproduction guides.
 
 Copyright in the manuscript and project-authored computational materials remains with the respective rights holders. For reuse beyond what is permitted by law or the applicable platform terms, seek permission from the relevant rights holders.

@@ -1,4 +1,4 @@
 * text=auto eol=lf
-/reproduction/audit/** -text
-/reproduction/EL18_58_Search_Checkpoint.zip binary
-/reproduction/MANIFEST.sha256 text eol=lf
+*.zip binary
+/dimension-*/reproduction/audit/** -text
+/dimension-*/reproduction/MANIFEST.sha256 text eol=lf
