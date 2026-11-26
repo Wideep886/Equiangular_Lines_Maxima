@@ -22,6 +22,8 @@ For links in earlier copies of the dimension 18 manuscript, see the [current pap
 
 ## Combined manuscript
 
+Read the combined manuscript on [arXiv:2611.34855](https://arxiv.org/abs/2611.34855).
+
 The [combined verification guide](combined-reproduction/) covers the three dimensional supplements, the nested Leech sections, and the sharp fixed-angle examples. The combined manuscript and its LaTeX source are maintained separately.
 
 ## Citation and permissions
